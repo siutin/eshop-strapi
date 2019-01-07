@@ -101,9 +101,3 @@ node_modules
 
 testApp
 coverage
-
-############################
-# CUSTOM
-############################
-
-build/
